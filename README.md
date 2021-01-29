@@ -13,6 +13,7 @@
 **}**
 
 <img align="right" alt="cool tree" src="https://media.tenor.com/images/373ab14c1163450d85ee0402ad59434c/tenor.gif" />
+
 ### //other
 **{**
 
@@ -21,5 +22,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NateAgcaoili&show_icons=true&hide_border=true)
 
 **}**
-
-
