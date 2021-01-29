@@ -1,5 +1,5 @@
 ### Hi there, I'm Nate 👋
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NateAgcaoili&show_icons=true&hide_border=true)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NateAgcaoili&hide_border=true&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NateAgcaoili/NateAgcaoili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
