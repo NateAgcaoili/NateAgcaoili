@@ -6,7 +6,7 @@
 ### //me
 **{**
 - 🏫 junior @ [georgia southern university](https://www.georgiasouthern.edu/)
-- 🤖 robot operator for starship technologies
+- 🤖 robot operator for [starship technologies](https://starship.xyz/)
 - ✉️ email: na01974@georgiasouthern.edu
 - 💼 let's link: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-agcaoili/)
 
