@@ -1,4 +1,4 @@
-## 👽 ẅ̵̧̛͕͉́̒ę̷̛̬̳̤l̵̳͔̠͇̋c̵̞͙͒͋̉͋́ͅo̷̧̺̺̺̒m̷̢̧̲̭͚̌̏e̶̗̋̈́̒̅👽
+## hi <img alt="snail wave" src="https://thumbs.gfycat.com/ThisRashGermanshorthairedpointer-max-1mb.gif" height = 50/>
 
 
 <img align="right" alt="starship robot" src="https://3u8dbs16f2emlqxkbc8tbvgf-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/Starship-6-1.png" height = 200/>
