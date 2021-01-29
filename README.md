@@ -6,7 +6,7 @@
 ### //me
 **{**
 - 🏫 junior @ [georgia southern university](https://www.georgiasouthern.edu/)
-- 📍 statesboro/augusta, ga
+- 📍 statesboro || augusta, ga
 - 🤖 robot operator for [starship technologies](https://starship.xyz/)
 - ✉️ email: na01974@georgiasouthern.edu
 - 💼 let's link: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-agcaoili/)
