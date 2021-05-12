@@ -5,7 +5,7 @@
 
 ### //me
 **{**
-- 🏫 junior @ [georgia southern university](https://www.georgiasouthern.edu/)
+- 🏫 senior @ [georgia southern university](https://www.georgiasouthern.edu/)
 - 📍 statesboro || augusta, ga
 - 🤖 robot operator for [starship technologies](https://starship.xyz/)
 - ✉️ email: na01974@georgiasouthern.edu
