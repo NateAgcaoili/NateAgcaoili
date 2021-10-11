@@ -15,7 +15,7 @@
 
 <img align="right" alt="cool gif" height="300" src="http://49.media.tumblr.com/9da27980d6355c1254daafa8c5a5a026/tumblr_n83n3i0yei1tu2k1so1_400.gif" />
 
-### //other
+### //stats
 **{**
 
 [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NateAgcaoili&hide_border=true&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
