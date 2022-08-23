@@ -6,7 +6,7 @@
 ### //me
 **{**
 - 🏫 graduate cs student @ [georgia southern university](https://www.georgiasouthern.edu/)
-- 📍 statesboro || augusta, ga
+- 📍 statesboro, ga || augusta, ga
 - 💻 software developer apprentice @ [SALT](https://saltsav.com/)
 - ✉️ email: na01974 [at] georgiasouthern [dot] edu
 - 💼 let's link: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-agcaoili/)
