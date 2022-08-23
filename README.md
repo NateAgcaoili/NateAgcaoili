@@ -1,7 +1,7 @@
 ## hi <img alt="snail wave" src="https://thumbs.gfycat.com/ThisRashGermanshorthairedpointer-max-1mb.gif" height = 50/>
 
 
-<img align="right" alt="starship robot" src="https://3u8dbs16f2emlqxkbc8tbvgf-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/Starship-6-1.png" height = 200/>
+<img align="right" alt="SALT logo" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFEETuIJR1b9g/company-logo_200_200/0/1593624505246?e=1669248000&v=beta&t=sQfsSxyZyReAvWcKLIwNTOnf0Kye1wDIkAzFvqDxSEw" height = 200/>
 
 ### //me
 **{**
